@@ -1,0 +1,22 @@
+# Título 1
+## Título 2
+### Título 3
+
+**Negrita** y *cursiva*  
+~~Texto tachado~~
+
+[Enlace](https://ejemplo.com)  
+![Imagen](https://ejemplo.com/imagen.jpg)
+
+> Cita en bloque  
+>> Cita anidada
+
+- Lista desordenada  
+  - Subelemento  
+1. Lista ordenada  
+   1. Subpunto  
+
+`Código en línea`  
+```python
+# Bloque de código
+print("Hola, Markdown!")
